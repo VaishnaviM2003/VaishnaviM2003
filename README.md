@@ -229,4 +229,3 @@ CGPA: **8.69**
 <p align="center">
 <i>"Quality is never an accident; it is the result of intelligent effort."</i>
 </p>
-```
