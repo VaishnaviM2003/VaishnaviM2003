@@ -61,7 +61,7 @@ I also enjoy exploring **Artificial Intelligence**, **Generative AI**, and pract
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,mysql,git"/>
+<img src="https://skillicons.dev/icons?i=python,html,mysql,git"/>
 </p>
 
 ### Automation & Testing
@@ -157,21 +157,15 @@ Worked on:
 using Python and AI technologies during my internship at **Prodigal AI**.
 
 ---
-
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaishnaviM2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviM2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaishnaviM2003&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviM2003&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviM2003&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=VaishnaviM2003&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
