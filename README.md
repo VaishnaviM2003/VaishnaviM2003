@@ -172,7 +172,7 @@ using Python and AI technologies during my internship at **Prodigal AI**.
 
 ## 🏆 Professional Highlights
 
-✨ Reduced manual regression effort by **40%**
+✨ Reduced manual regression effort 
 
 ✨ Developed enterprise automation frameworks
 
